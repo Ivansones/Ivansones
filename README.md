@@ -33,8 +33,8 @@
 
 ## Sobre mim
 
-- 🎸 Curto música, código e cuidar do meu cabelo grande 😁
-- 🏆 Foco em soluções criativas e eficientes.
+-  Curto música, código e cuidar do meu cabelo grande 
+-  Foco em soluções criativas e eficientes.
 
 ---
 
