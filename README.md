@@ -31,11 +31,9 @@
 
 ---
 
-## 😎 Sobre mim
+## Sobre mim
 
-- 💻 Amante de tecnologia, sempre explorando novos desafios!
 - 🎸 Curto música, código e cuidar do meu cabelo grande 😁
-- 🌱 Sempre aprendendo novas stacks e frameworks.
 - 🏆 Foco em soluções criativas e eficientes.
 
 ---
